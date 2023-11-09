@@ -1,0 +1,6 @@
+@PokemonWebAPI_ER_HostAddress = http://localhost:5032
+
+GET {{PokemonWebAPI_ER_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
